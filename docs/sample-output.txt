@@ -1,0 +1,12 @@
+1. Insert Reservation
+2. Delete Reservation
+3. Search Reservation
+4. Display Reservations
+5. Exit
+
+Enter choice: 1
+Reservation added successfully.
+
+Enter choice: 3
+Enter Ticket ID: 102
+Reservation found.
